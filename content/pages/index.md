@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Contrata profesionales
+      text: Proyectos industriales a la medida
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
