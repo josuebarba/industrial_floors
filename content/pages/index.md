@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Proyectos industriales a la medida
-      color: text-dark
+      color: text-primary
       type: TitleBlock
       styles:
         self:
