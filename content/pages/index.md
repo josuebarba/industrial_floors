@@ -7,7 +7,7 @@ sections:
       text: Proyectos industriales a la medida
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Calidad, innovación y eficiencia'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
