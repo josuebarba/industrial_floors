@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: 'Calidad, innovación y eficiencia'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Obtén pisos con excelentes atributos como gran durabilidad, bajo
+      mantenimiento y sostenibles, para bodegas, naves industriales,
+      manufactura, almacenamiento y centros de distribución. Con nuestra oferta
+      especial para el diseño, productos especiales y soluciones de pisos de
+      concreto.
     actions:
       - label: Get started
         altText: ''
