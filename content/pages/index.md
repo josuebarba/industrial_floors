@@ -15,7 +15,7 @@ sections:
       especial para el diseño, productos especiales y soluciones de pisos de
       concreto.
     actions:
-      - label: Get started
+      - label: Iniciar
         altText: ''
         url: /
         showIcon: false
