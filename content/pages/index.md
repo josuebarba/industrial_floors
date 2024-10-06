@@ -7,6 +7,9 @@ sections:
       text: Proyectos industriales a la medida
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 500
     subtitle: 'Calidad, innovación y eficiencia'
     text: >
       Obtén pisos con excelentes atributos como gran durabilidad, bajo
