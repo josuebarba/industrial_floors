@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Servicios",
-                "altText": "Features page",
+                "altText": "Services page",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
