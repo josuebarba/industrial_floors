@@ -596,7 +596,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Pisos en general
+      - title: Recubrimientos industriales
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
