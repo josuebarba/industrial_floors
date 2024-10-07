@@ -38,7 +38,7 @@ sections:
         type: Link
     media:
       url: /images/pisos-poliuretano.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
