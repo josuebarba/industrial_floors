@@ -118,7 +118,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 95%
-        subtitle: Faster
+        subtitle: Satisfacción
         text: >
 
           95% de nuestros clientes están satisfechos con la calidad y el
