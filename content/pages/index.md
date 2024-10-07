@@ -586,8 +586,7 @@ sections:
       - title: Poliuretano
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: "Los poliuretanos\_son polímeros que forman parte de un grupo de químico llamado carbamatos. Los carbamatos se adhieren a los polímeros para crear un revestimiento de suelo resistente. A su vez, esta composición química brinda protección contra las bacterias, los productos químicos y la humedad.\n"
         image:
           url: /images/pisos-poliuretano.jpg
           altText: Placeholder image
