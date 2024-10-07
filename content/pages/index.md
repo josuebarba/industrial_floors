@@ -667,7 +667,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: Feature Item One
+        title: Pintura epoxica
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
