@@ -588,7 +588,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Servicios
       color: text-primary
       styles:
         self:
