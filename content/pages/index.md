@@ -594,7 +594,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Nos especializamos en
     items:
       - title: Recubrimientos industriales
         tagline: This is the tagline
