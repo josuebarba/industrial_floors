@@ -708,11 +708,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      En \[Brand] nos tomamos en serio todos y cada uno de nuestros proyectos,
+      ofreciendo calidad y atención especial a cada uno de nuestros clientes,
+      contactanos sin ningún tipo de compromiso y te ofreceremos la mejor de las
+      atenciones.
     media:
       fields:
         - name: name
