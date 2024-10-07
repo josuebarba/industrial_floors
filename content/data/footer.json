@@ -19,7 +19,7 @@
             },
             {
                 "label": "Opiniones",
-                "url": "/pricing",
+                "url": "#reviews",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
