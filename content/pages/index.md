@@ -559,7 +559,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Nos especializamos en
+    subtitle: 'Nos especializamos en:'
     items:
       - title: Recubrimientos industriales
         tagline: This is the tagline
