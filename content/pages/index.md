@@ -748,6 +748,7 @@ sections:
           placeholder: Escribe aquí tu mensaje
           width: full
           type: TextareaFormControl
+          isRequired: true
       elementId: contact-form
       styles:
         self:
