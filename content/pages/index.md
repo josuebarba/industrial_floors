@@ -731,7 +731,7 @@ sections:
         - name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Nombre
           isRequired: true
           width: full
           type: TextFormControl
