@@ -564,8 +564,7 @@ sections:
       - title: Recubrimientos industriales
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "Su principal función es\_proteger las superficies contra la corrosión, el desgaste, la abrasión y otros tipos de daños.\n"
         image:
           url: /images/recubrimientos-industriales.jpg
           altText: Placeholder Image
