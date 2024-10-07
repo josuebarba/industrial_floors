@@ -745,7 +745,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Escribe aquí tu mensaje
           width: full
           type: TextareaFormControl
       elementId: contact-form
