@@ -544,7 +544,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-    elementId: null
+    elementId: reviews
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
