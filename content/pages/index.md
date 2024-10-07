@@ -679,8 +679,7 @@ sections:
         title: Desbastado de pisos
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "El desbastado de pisos es un\_proceso donde se rebaja o lija la superficie de este, para remover el recubrimiento viejo o dañado.\n"
         image:
           type: ImageBlock
           url: /images/desbastado.jpg
