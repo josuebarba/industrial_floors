@@ -64,7 +64,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Metricas de nuestro trabajo
+    subtitle: Métricas de nuestro trabajo
     items:
       - type: FeaturedItem
         title: '+300'
