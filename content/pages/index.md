@@ -656,8 +656,7 @@ sections:
         title: Pintura epoxica
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "La resina epóxica, también conocida como porcelanato líquido,\_se utiliza para crear pisos epóxicos con una gran resistencia y brillo. Uno de los principales beneficios es su resistencia mecánica, que supera la del concreto.\n"
         image:
           type: ImageBlock
           url: /images/epoxica.jpg
