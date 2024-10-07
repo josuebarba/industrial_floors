@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Contactanos",
-            "url": "/",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
