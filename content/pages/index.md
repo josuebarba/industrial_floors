@@ -619,7 +619,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Poli
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
