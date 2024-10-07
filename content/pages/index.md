@@ -720,7 +720,7 @@ sections:
       text: 'Escribenos, cuentanos sobre tu proyecto y nosotros te ayudamos.'
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Cotizaciones sin compromiso.
     text: >
       En \[Brand] nos tomamos en serio todos y cada uno de nuestros proyectos,
       ofreciendo calidad y atención especial a cada uno de nuestros clientes,
