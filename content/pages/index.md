@@ -143,7 +143,7 @@ sections:
     actions:
       - label: Contactanos
         altText: ''
-        url: /
+        url: '#contact'
         showIcon: false
         icon: arrowRight
         iconPosition: right
