@@ -20,7 +20,7 @@ sections:
     actions:
       - label: Iniciar
         altText: ''
-        url: /
+        url: '#contact'
         showIcon: false
         icon: arrowRight
         iconPosition: right
