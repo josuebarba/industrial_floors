@@ -667,14 +667,14 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: Pintura epoxica
+        title: Pulido de concreto
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/epoxica.jpg
+          url: /images/pulido.jpg
           altText: Placeholder text
           styles:
             self:
@@ -691,14 +691,14 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Pulido de concreto
+        title: Pintura epoxica
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/pulido.jpg
+          url: /images/epoxica.jpg
           altText: Placeholder text
           styles:
             self:
