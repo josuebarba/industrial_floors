@@ -58,7 +58,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'Compromiso con la Calidad: Durabilidad, Eficiencia y Satisfacción'
       color: text-dark
       styles:
         self:
