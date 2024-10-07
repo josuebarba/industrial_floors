@@ -633,8 +633,7 @@ sections:
         title: Pulido de concreto
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "El pulido de concreto es un\_proceso para el acabado de superficies que aumenta la resistencia y estética de este material. Se utiliza en entornos industriales como base para recubrimientos y en viviendas como elementos decorativos.\n"
         image:
           type: ImageBlock
           url: /images/pulido.jpg
