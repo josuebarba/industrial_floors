@@ -691,14 +691,14 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Desbastado de pisos
+        title: Pulido de concreto
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/desbastado.jpg
+          url: /images/pulido.jpg
           altText: Placeholder text
           styles:
             self:
@@ -715,14 +715,14 @@ sections:
             borderRadius: x-large
             flexDirection: col-reverse
       - type: FeaturedItem
-        title: Pulido de concreto
+        title: Desbastado de pisos
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/pulido.jpg
+          url: /images/desbastado.jpg
           altText: Placeholder text
           styles:
             self:
