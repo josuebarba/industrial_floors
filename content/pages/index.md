@@ -67,7 +67,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 100+
+        title: '+300'
         subtitle: Trabajos industriales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
