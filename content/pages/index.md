@@ -97,10 +97,9 @@ sections:
               borderRadius: x-large
       - title: +15 años
         subtitle: Durabilidad y resistencia
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Nuestras instalaciones duran un aproximado de más de 15 años en
+          operación ininterrumpida!
         image:
           url: /images/icon2.svg
           altText: Featured icon two
